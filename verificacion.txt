@@ -1,0 +1,11 @@
+OPERACIONES PARA LA CADENA: 'abaa'
+
+Subcadenas: a, ab, aba, abaa, b, ba, baa, a, aa, a
+
+Prefijos: , a, ab, aba, abaa
+
+Sufijos: abaa, baa, aa, a, 
+
+Cerradura de Kleene (Σ*): , b, a, bb, ba, ab, aa, bbb, bba, bab, baa, abb, aba, aab, aaa
+
+Cerradura Positiva (Σ+): b, a, bb, ba, ab, aa, bbb, bba, bab, baa, abb, aba, aab, aaa

@@ -1,0 +1,10 @@
+Alfabeto: 0,1
+Estados: q0,q1,q2
+Estado inicial: q0
+Estados de aceptación: q0,q1
+Transición: q0,0->q1
+Transición: q0,1->q0
+Transición: q1,0->q2
+Transición: q1,1->q0
+Transición: q2,0->q2
+Transición: q2,1->q1
